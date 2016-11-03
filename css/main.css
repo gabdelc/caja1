@@ -1,19 +1,16 @@
-
-h1 {
+h1{
+    border: 1px dashed black;
     text-align: center;
-    border: 2px dashed black;
-    background: white;
-    padding: 5px, 
-    }
-
-div {
-    border-width: 10px;
-    border-color: solid, purple;
-    background-color: rgba(233, 66, 157, 1);
-    margin: 10px 5px 20px 30px;
-
-    
+    padding: 5px;
+    background-color: whitesmoke;
 }
 
-
-
+div {
+    background-color: darksalmon;
+    border-width: 10px 5px;
+    border-color: darkviolet;
+    border-style: solid;
+    padding: 5px;
+    margin:  6px 3px 10px 8px;
+    
+}
